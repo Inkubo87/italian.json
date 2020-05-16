@@ -484,7 +484,7 @@
   "wcontroller.examine.giant": "Hai scoperto un {0} che si è unito alla tua tribù!",
   "wcontroller.examine.explorer": "Hai incontrato alcuni indigeni che ti hanno mostrato le terre circostanti.",
   "wcontroller.examine.explorer.title": "Esploratori",
-  "wcontroller.examine.tech": "Hai trovato alcune vecchie pergamene che contengono il segreto del/la {0}.",
+  "wcontroller.examine.tech": "Hai trovato alcune vecchie pergamene che contengono il segreto {0}.",
   "wcontroller.examine.tech.title": "Pergamene della Saggezza",
   "wcontroller.examine.stars": "Le antiche rovine sono piene di preziose risorse!",
   "wcontroller.examine.stars.title": "Risorse",
