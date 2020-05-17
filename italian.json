@@ -116,7 +116,7 @@
   "world.turn.end.question": "Vuoi terminare il tuo Turno?",
   "world.turn.end.confirm": "Conferma",
   "world.turn.next": "Pross. Turno",
-  "world.turn.finish": "Termina Turno",
+  "world.turn.finish": "Termina",
   "world.turn.nomoves": "Nessuna mossa disponibile, termina il Turno",
   "world.turn.start": "INIZIO",
   "world.turn.exit": "Esci",
