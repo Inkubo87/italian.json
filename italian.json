@@ -220,7 +220,7 @@
   "building.ability.route.and": " e ",
   "building.ability.road": "Costruisci strade per collegare città alla capitale. Le città connesse danno 1 di popolazione come ricompensa. Le strade danno anche movimenti bonus a tutte le unità.",
   "building.ability.ruin": "Una rovina di un\u0027antica civiltà, può contenere oggetti preziosi! Vai qui con un\u0027unità per esaminarla.",
-  "building.ability.patina": "{0} crescono nel tempo, dunque cerca di costruirli il più velocemente possibile.",
+  "building.ability.patina": "{0} cresce nel tempo, dunque cerca di costruirlo il più velocemente possibile.",
   "building.ability.limited": "Puoi costruire solo un {0} per città.",
   "building.ability.unique": "{0} può essere costruita una sola volta.",
   "building.restriction.near": "Deve essere costruito vicino a {0}.",
